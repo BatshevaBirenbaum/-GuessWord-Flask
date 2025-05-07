@@ -1,0 +1,11 @@
+good
+bad
+black
+blue
+yellow
+sky
+house
+bed
+girl
+baby
+table

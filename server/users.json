@@ -1,0 +1,43 @@
+[
+    {
+        "name": "Leah",
+        "id": 101,
+        "password": "Leah1234!",
+        "games_count": 5,
+        "list_words": [
+            "good",
+            "girl"
+        ],
+        "win_count": 4
+    },
+    {
+        "name": "Rachel",
+        "id": 102,
+        "password": "Rachel1234!",
+        "games_count": 5,
+        "list_words": [
+            "good"
+        ],
+        "win_count": 3
+    },
+    {
+        "name": "Sara",
+        "id": 103,
+        "password": "Sara1234!",
+        "games_count": 1,
+        "list_words": [
+            "good"
+        ],
+        "win_count": 1
+    },
+    {
+        "name": "Rivka",
+        "id": 104,
+        "password": "Rivka1234!",
+        "games_count": 5,
+        "list_words": [
+            "good"
+        ],
+        "win_count": 3
+    }
+]
